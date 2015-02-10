@@ -11,7 +11,9 @@ namespace WebApplication1.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            int a; 
+            int a;
+            float b; 
+
             return View();
         }
     }
